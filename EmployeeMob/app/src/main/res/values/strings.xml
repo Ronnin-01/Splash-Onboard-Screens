@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Employee Mob</string>
+    <string name="onboard1T1"> An Ideal Platform </string>
+    <string name="onboard1T1.2"> " "Grow Business</string>
+    <string name="onboard1T2">Grow your business, manage leads,\n contacts, and opportunities with\n SalesOptim</string>
+    <string name="onboard2T1">Elevate your sales game</string>
+    <string name="onboard2T1.2">" " with SalesOptim.</string>
+</resources>
